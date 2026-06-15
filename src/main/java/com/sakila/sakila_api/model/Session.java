@@ -18,8 +18,7 @@ public class Session {
     private String room;
     private String track;
 
-    public Long getId() {
-        return id;
+    public Long getId() {        return id;
     }
 
     public void setId(Long id) {
